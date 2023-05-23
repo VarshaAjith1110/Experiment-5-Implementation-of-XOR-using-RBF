@@ -69,6 +69,7 @@ edge joining 2nd node (peak2 output) to the output node
 bias edge
 
 ## PROGRAM:
+~~~
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
@@ -153,7 +154,7 @@ Input:[0 0], Predicted: 0.0
 Input:[0 1], Predicted: 1.0
 Input:[1 0], Predicted: 1.0
 Input:[1 1], Predicted: 0.0
-
+~~~
 
 ## OUTPUT :
    ![image](https://github.com/VarshaAjith1110/Experiment-5-Implementation-of-XOR-using-RBF/assets/94222288/7e7557a7-d7fd-49e4-813f-98b0680e2ee9)
